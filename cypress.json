@@ -1,0 +1,9 @@
+{
+  "env": {
+    "APP_URL": "",
+    "ADMIN_PASSWORD": "",
+    "ADMIN_LOGIN": ""
+  },
+  "screenshotsFolder": "./cypress/snapshots/actual",
+  "trashAssetsBeforeRuns": true
+}
